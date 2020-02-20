@@ -3,4 +3,4 @@
 
 ### Variational Autoencoder 
 
-1. [Variational Autoencoder](https://github.com/FullSimplify/Examples/blob/master/Introduction_to_Variational_Autoencoders.ipynb)
+1. [Variational Autoencoder](https://github.com/FullSimplify/Examples/blob/master/Introduction_to_Variational_Autoencoders_1.ipynb)
