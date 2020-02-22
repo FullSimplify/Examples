@@ -1,5 +1,5 @@
 ### An example of a neural network with numpy to explain backpropagation
-1. [Backpropagation made simple](https://github.com/FullSimplify/Examples/blob/master/net_numpy2.ipynb)
+1. [Backpropagation made simple](https://github.com/FullSimplify/Examples/blob/master/net_numpy3.ipynb)
 
 ### Variational Autoencoder 
 
