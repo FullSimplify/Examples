@@ -3,4 +3,4 @@
 
 2. [Introduction to Variational Autoencoders with TensorFlow](https://github.com/FullSimplify/Examples/blob/master/Introduction%20to%20Variational%20Autoencoders_1.ipynb)
 
-3. [Example of fully connected neural network in pytorch](https://github.com/FullSimplify/Examples/blob/master/iris_fcnn_example.ipynb)
+3. [Example of fully connected neural network in pyTorch](https://github.com/FullSimplify/Examples/blob/master/iris_fcnn_example.ipynb)
