@@ -1,6 +1,4 @@
-### An example of a neural network with numpy to explain backpropagation
-1. [Backpropagation made simple](https://github.com/FullSimplify/Examples/blob/master/net_numpy3.ipynb)
+### Examples and templates
+1. [Backpropagation made simple. Network with numpy](https://github.com/FullSimplify/Examples/blob/master/net_numpy3.ipynb)
 
-### Variational Autoencoder with Tensorflow
-
-1. [Introduction to Variational Autoencoders](https://github.com/FullSimplify/Examples/blob/master/Introduction%20to%20Variational%20Autoencoders_1.ipynb)
+1. [Introduction to Variational Autoencoders with TensorFlow](https://github.com/FullSimplify/Examples/blob/master/Introduction%20to%20Variational%20Autoencoders_1.ipynb)
