@@ -6,4 +6,4 @@
 
 3. [First steps in PyTorch. A fully connected neural network](https://github.com/FullSimplify/Examples/blob/master/iris_fcnn_example.ipynb)
 
-4. [Intermediate Python. Decorator examples](https://github.com/FullSimplify/Examples/blob/master/Decorators.ipynb)
+4. [Intermediate Python, a look at Decorators](https://github.com/FullSimplify/Examples/blob/master/Decorators.ipynb)
