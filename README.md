@@ -6,4 +6,4 @@
 
 3. [Intermediate Python, a look at Decorators](https://github.com/FullSimplify/Examples/blob/master/Decorators.ipynb)
 
-4. [getting started with Torch? Simple Multi-class classification]
+4. [getting started with Torch? Simple Multi-class classification](https://github.com/FullSimplify/Examples/blob/master/iris_fcnn_example.ipynb)
