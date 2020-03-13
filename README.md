@@ -1,6 +1,6 @@
 ### Blog
 
-1. [Text Classification. Hashing Vectorizer with SVM classifier, a simple approach that performs]
+1. [Text Classification. Hashing Vectorizer with SVM classifier, a simple approach that performs](https://github.com/FullSimplify/Examples/blob/master/CustomEmbedding.ipynb)
 
 1. [Introduction to Variational Autoencoders with TensorFlow](https://github.com/FullSimplify/Examples/blob/master/Introduction%20to%20Variational%20Autoencoders_1.ipynb)
 
