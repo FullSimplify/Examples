@@ -1,7 +1,7 @@
 ### Blog
 
 
-1.[A look at Bayesian modeling and MCMC](https://github.com/FullSimplify/Examples/blob/master/BayesPoisson.ipynb)
+1. [A look at Bayesian modeling and MCMC](https://github.com/FullSimplify/Examples/blob/master/BayesPoisson.ipynb)
 
 2. [Out-of-core Text Classification with a Hashing Vectorizer](https://github.com/FullSimplify/Examples/blob/master/OutOfCoreText.ipynb)
 
