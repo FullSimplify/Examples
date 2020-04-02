@@ -13,4 +13,4 @@
 
 6. [Getting started with Torch? Simple Multi-class classification](https://github.com/FullSimplify/Examples/blob/master/iris_fcnn_example.ipynb)
 
-7. [Introduction to A/B tests for proportions](https://github.com/FullSimplify/Examples/blob/master/2sampleZtest_v2.ipynb)
+
