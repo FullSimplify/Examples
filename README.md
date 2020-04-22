@@ -1,6 +1,6 @@
 ### Blog
 
-2. [The Central Limit Theorem and the Normal approximation to the Binomial Distribution]()
+2. [The Central Limit Theorem and the Normal approximation to the Binomial Distribution](https://github.com/FullSimplify/Examples/blob/master/CLT_binomial.ipynb)
 
 3. [A look at Bayesian modeling and MCMC](https://github.com/FullSimplify/Examples/blob/master/BayesPoisson1.ipynb)
 
