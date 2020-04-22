@@ -1,5 +1,7 @@
 ### Blog
 
+1. [A/B Test and Test Power](https://github.com/FullSimplify/Examples/blob/master/2sampleZtest_v2.ipynb)
+
 2. [The Central Limit Theorem and the Normal approximation to the Binomial Distribution](https://github.com/FullSimplify/Examples/blob/master/CLT_binomial.ipynb)
 
 3. [A look at Bayesian modeling and MCMC](https://github.com/FullSimplify/Examples/blob/master/BayesPoisson1.ipynb)
