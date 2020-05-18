@@ -1,4 +1,4 @@
-### Blog
+### Doodles
 
 . [Get started with XGBoost (work in progress)](https://github.com/FullSimplify/UCI_HeartDisease)
 
